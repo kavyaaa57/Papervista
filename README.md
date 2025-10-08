@@ -29,7 +29,7 @@ Run two terminals — one for the server and one for the client.
 Activate your virtual environment first:
 
 ```bash
-.\venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 Then start the server:
@@ -47,7 +47,7 @@ Wait until you see “Application startup complete.”
 Activate the virtual environment again in the new terminal:
 
 ```bash
-.\venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 #### Search Papers
